@@ -30,10 +30,10 @@ const businessProfile = {
 
     handle: "@rubin_ramudamu_",
 
-    instagram: "https://www.instagram.com/parishar_rajbhandari_/?hl=en",
-    facebook: "https://www.facebook.com/parishar.rajbhandari.7",
+    instagram: "https://www.instagram.com/rubin.ramudamu?stkn=MTNwNmVwb2FkaWg5ZA==",
+    facebook: "https://www.facebook.com/share/1JTPunT8un/",
     linkedin: "",
-    tiktok: "",
+    tiktok: "https://www.tiktok.com/@jaysantoshimaagoldshop?_r=1&_t=ZS-9A4jQl2k593",
     youtube: "",
 
     whatsappMessage:
