@@ -21,7 +21,7 @@ const businessProfile = {
     phone: "+977 9855063964",
     whatsapp: "9855063964",
     email: "rubinramudamu@gmail.com",
-    website: "https://",
+    website: "https://rubinramudamu.tappoo.workers.dev/",
 
     address: "Jai santoshi Ma soon chandi, Milan road, Chitwan, Nepal",
     // Optional: exact Google Maps link. If omitted a search URL is
